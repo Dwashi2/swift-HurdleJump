@@ -43,7 +43,8 @@
       hurdleJump([1, 2, 1], 1) ➞ false
       
       Notes:
-      Return true for the edge case of an empty array of hurdles. (Zero hurdles means that any jump height can clear them).
+      Return true for the edge case of an empty array of hurdles. 
+      (Zero hurdles means that any jump height can clear them).
 
      Excercise from: https://edabit.com/challenges/swift
 
